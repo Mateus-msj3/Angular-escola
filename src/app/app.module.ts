@@ -9,7 +9,8 @@ import { ListaDeDisciplinasComponent } from './lista-de-disciplinas/lista-de-dis
 @NgModule({
   declarations: [
     AppComponent,
-    ListaDeDisciplinasComponent
+    ListaDeDisciplinasComponent,
+  
   ],
   imports: [
     BrowserModule,
