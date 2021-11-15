@@ -1,6 +1,33 @@
-# AngularEscola
+# Angular Escola
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
+
+Projeto desenvolvido para aplicação de conhecimentos obtidos através dos estudos da linguagem TypeScript e o framework Angular.
+
+## FUNCIONALIDADES
+
+- Listagem de Disciplinas
+- Cadastro de novas Disciplinas
+- Edição de Disciplinas
+- Exclusão de Disciplinas
+
+## SCREENSHOTS
+
+### Home
+![Home_Page](src/screenshots/Home.png)
+
+### Listagem
+![Lista](src/screenshots/Lista_Disciplinas.png)
+
+### Cadastro
+![Cadastro](src/screenshots/cadastrar.png)
+
+### Edição
+![Editar](src/screenshots/editar.png)
+
+### Excluir
+![Upload](src/screenshots/excluir.png)
+
 
 ## Development server
 
@@ -25,3 +52,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Autor
+
+Mateus Souza de Jesus, Analista e desenvolvedor de sistemas.
